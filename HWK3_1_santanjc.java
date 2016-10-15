@@ -6,7 +6,7 @@
  */
 
 public class HWK3_1_santanjc {										//make the class HWK3_1_santanjc
-	//main method used for putting arsuments into the recursive function
+	//main method used for putting arguments into the recursive function
 	public static void main(String[] args){							//make the main function/method
 			System.out.print(binomial(Integer.parseInt(args[0]),Integer.parseInt(args[1])));	//put n and k into the recursive function
 	}
